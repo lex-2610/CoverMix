@@ -1,0 +1,16 @@
+# Spotify Album Cover Collage Generator - Requirements
+# ===================================================
+
+# Core dependencies
+requests>=2.31.0        # For Spotify API calls
+Pillow>=10.0.0         # For image processing and collage creation
+python-dotenv>=1.0.0   # For environment variable management
+
+# Optional dependencies for enhanced functionality
+# urllib3>=1.26.0       # Already included with requests
+# certifi>=2023.0.0     # Already included with requests
+
+# Development dependencies (optional)
+# pytest>=7.0.0         # For testing
+# black>=23.0.0         # For code formatting
+# flake8>=6.0.0         # For linting
